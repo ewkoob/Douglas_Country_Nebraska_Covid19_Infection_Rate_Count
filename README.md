@@ -3,4 +3,6 @@ manually entering historical screen shot data for Douglas County Nebraska to vie
 
 https://covidtracking.com/data/state/nebraska
 
-https://www.arcgis.com/apps/opsdashboard/index.html
+https://www.arcgis.com/apps/opsdashboard/index.html#/21bec056a9a6449abcca89a329868fd6
+
+
