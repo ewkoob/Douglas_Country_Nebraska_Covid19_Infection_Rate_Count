@@ -3,7 +3,7 @@ manually entering historical screen shot data for Douglas County Nebraska to vie
 
 <a href="https://covidtracking.com/data/state/nebraska" target="_blank">Covid Tracking - Nebraska</a>
 
-[OPS Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/21bec056a9a6449abcca89a329868fd6 {:target="_blank"})
+<a href="ttps://www.arcgis.com/apps/opsdashboard/index.html#/21bec056a9a6449abcca89a329868fd6" target="_blank">OPS Dashboard</a>
 
 
 
