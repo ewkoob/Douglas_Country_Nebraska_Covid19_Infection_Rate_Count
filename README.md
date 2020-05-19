@@ -5,7 +5,7 @@ manually entering historical screen shot data for Douglas County Nebraska to vie
 
 <a href="https://www.arcgis.com/apps/opsdashboard/index.html#/21bec056a9a6449abcca89a329868fd6" target="_blank" rel="noopener noreferrer">OPS Dashboard</a>
 
-
+<script>
 showdown.extension('targetlink', function() {
   return [{
     type: 'html',
@@ -13,6 +13,7 @@ showdown.extension('targetlink', function() {
     replace: '$1 target="_blank"$2'
   }];
 });
+</script>
 
 
 
